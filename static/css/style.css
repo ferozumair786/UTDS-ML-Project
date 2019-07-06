@@ -2,7 +2,7 @@
 
 section{width:100%; height: 717px; float:left;}
 
-#pageA{background-image: url("img/pecan.jpg");}
+#pageA{background-image: url("static/img/pecan.jpg");}
 #pageB{background: teal;}
 #pageC{background: blue;}
 #pageD{background: navy;}
