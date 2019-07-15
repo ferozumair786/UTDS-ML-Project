@@ -16,4 +16,6 @@
   More information on Juglone: https://en.wikipedia.org/wiki/Juglone  
   
   Morton Arboretum from Chicago has an extensive list of Juglone tolerant plants: https://hort.extension.wisc.edu/articles/black-walnut-toxicity/  
+  
+  App: https://juglone-resistance.herokuapp.com/
 
